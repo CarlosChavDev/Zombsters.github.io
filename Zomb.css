@@ -1,0 +1,45 @@
+﻿
+body {
+    background-color: ghostwhite;
+    font-family: monospace;
+    font-size: 26px;
+}
+p {
+    color: black;
+    font-size: 22px;
+    position: relative;
+    left: 15px;
+}
+h2 {
+    color: forestgreen;
+    font-size: 22px;
+    position:relative;
+    left: 15px;
+}
+#glass {
+    bottom: 120px;
+    width: 10%;
+    height: 10%;
+    border-style: groove;
+    border-width: 5px;
+    border-color: forestgreen;
+    float: left;
+    margin-left: 50px;
+}
+#brain {
+    border-style: groove;
+    border-width: 5px;
+    border-color: dodgerblue;
+}
+button {
+    
+}
+.fa-linkedin {
+    color:dodgerblue;
+}
+.fa-instagram {
+    color: #962fbf;
+}
+.fa-github {
+    color: #171515;
+}
